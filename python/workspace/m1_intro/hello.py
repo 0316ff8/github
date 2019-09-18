@@ -8,7 +8,8 @@ print(x*y)
 
 x = "messi"
 y = "leo"
-print(y + x)
+z = "10"
+print(y + x + z)
 
 '''
 test

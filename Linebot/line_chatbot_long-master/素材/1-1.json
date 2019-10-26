@@ -1,0 +1,23 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "登山",
+        "data": "sport=climb"
+      },
+      {
+        "type": "postback",
+        "label": "跑步",
+        "data": "sport=run"
+      }
+    ],
+    "title": "請選擇運動類型",
+    "text": "請問您喜歡登山還是跑步呢?"
+  }
+}
+]

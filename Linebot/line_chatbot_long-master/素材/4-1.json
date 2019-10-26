@@ -1,0 +1,44 @@
+[
+{
+  "type": "text",
+  "text": "您最近一次的運動紀錄如下：\n\n開始時間：XXXX-XX-XX\n結束時間：XXXX-XX-XX\n平均心跳是：XXX\n每公里配速：XXX\n消耗卡路里：XXX\n\n"
+},
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "bubble",
+    "direction": "ltr",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "系統評分",
+          "size": "xl",
+          "align": "center"
+        }
+      ]
+    },
+    "hero": {
+      "type": "image",
+      "url": "https://lh3.googleusercontent.com/8hl7ago-SWig_kxWh658aFWzR_pNUNCjG2T6r76sRyUT1itO-hJiTJYMnlv3wYUxNFu1rj4r7iltz80ryiSaoBVfa1Y7Uu2xkvPrkC8cCfvH83lvx0VEwH7lrWBl0sMxjUkKJvT7EA=w2400",
+      "size": "full",
+      "aspectRatio": "1.51:1",
+      "aspectMode": "fit"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "您的評比等級為 A",
+          "align": "center"
+        }
+      ]
+    }
+  }
+}
+]

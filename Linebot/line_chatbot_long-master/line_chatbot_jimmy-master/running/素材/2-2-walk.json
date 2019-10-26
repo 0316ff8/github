@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "北部",
+        "data": "type_locate=walk:north"
+      },
+      {
+        "type": "postback",
+        "label": "中部",
+        "data": "type_locate=walk:mid"
+      },
+      {
+        "type": "postback",
+        "label": "南部",
+        "data": "type_locate=walk:south"
+      },
+      {
+        "type": "postback",
+        "label": "東部或離島",
+        "data": "type_locate=walk:east"
+      }
+    ],
+    "text": "請選擇地區"
+  }
+}
+]

@@ -1,0 +1,31 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "強",
+        "text": "強",
+        "data": "sport_locate_hard=climb:KS:hard"
+      },
+      {
+        "type": "postback",
+        "label": "中",
+        "text": "中",
+        "data": "sport_locate_hard=climb:KS:mid"
+      },
+      {
+        "type": "postback",
+        "label": "弱",
+        "text": "弱",
+        "data": "sport_locate_hard=climb:KS:low"
+      }
+    ],
+    "title": "選擇運動強度",
+    "text": "您想選的強度是?"
+  }
+}
+]

@@ -1,0 +1,83 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "主選單",
+  "chatBarText": "RunningAI",
+  "areas": [
+    {
+      "bounds": {
+        "x": 9,
+        "y": 13,
+        "width": 817,
+        "height": 855
+      },
+      "action": {
+        "type": "message",
+        "text": "路線推薦"
+      }
+    },
+    {
+      "bounds": {
+        "x": 848,
+        "y": 12,
+        "width": 805,
+        "height": 862
+      },
+      "action": {
+        "type": "message",
+        "text": "活動賽事"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1674,
+        "y": 13,
+        "width": 817,
+        "height": 851
+      },
+      "action": {
+        "type": "message",
+        "text": "開始運動"
+      }
+    },
+    {
+      "bounds": {
+        "x": 13,
+        "y": 881,
+        "width": 813,
+        "height": 797
+      },
+      "action": {
+        "type": "message",
+        "text": "查看體能狀態"
+      }
+    },
+    {
+      "bounds": {
+        "x": 843,
+        "y": 886,
+        "width": 810,
+        "height": 792
+      },
+      "action": {
+        "type": "message",
+        "text": "查詢我的歷史運動紀錄"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1674,
+        "y": 881,
+        "width": 813,
+        "height": 797
+      },
+      "action": {
+        "type": "message",
+        "text": "聯絡我們"
+      }
+    }
+  ]
+}

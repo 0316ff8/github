@@ -1,0 +1,48 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "運動時間",
+        "text": "運動類型",
+        "actions": [
+          {
+            "type": "message",
+            "label": "查看詳細記錄",
+            "text": "查看詳細記錄"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "運動時間",
+        "text": "運動類型",
+        "actions": [
+          {
+            "type": "message",
+            "label": "查看詳細記錄",
+            "text": "查看詳細記錄"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "運動時間",
+        "text": "運動類型",
+        "actions": [
+          {
+            "type": "message",
+            "label": "查看詳細記錄",
+            "text": "查看詳細記錄"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

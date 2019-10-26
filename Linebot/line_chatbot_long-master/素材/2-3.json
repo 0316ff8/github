@@ -1,0 +1,63 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "賽事1",
+        "text": "復仇者聯盟路跑活動",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "活動網址",
+            "uri": "https://bao-ming.com/eb/www/activity_content.php?activitysn=4070&contentsn=20328"
+          },
+          {
+            "type": "uri",
+            "label": "報名連結",
+            "uri": "https://bao-ming.com/eb/www/reg.php?activitysn=4070"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "賽事2",
+        "text": "路跑活動",
+        "actions": [
+          {
+            "type": "message",
+            "label": "活動網址",
+            "text": "活動網址"
+          },
+          {
+            "type": "message",
+            "label": "報名連結",
+            "text": "報名連結"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/2hYqSLd.png",
+        "title": "標題",
+        "text": "文字",
+        "actions": [
+          {
+            "type": "message",
+            "label": "動作 1",
+            "text": "動作 1"
+          },
+          {
+            "type": "message",
+            "label": "動作 2",
+            "text": "動作 2"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

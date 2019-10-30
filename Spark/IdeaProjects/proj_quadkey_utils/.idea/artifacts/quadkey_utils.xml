@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="quadkey_utils">
+    <output-path>$PROJECT_DIR$/out/artifacts/quadkey_utils</output-path>
+    <root id="archive" name="quadkey_utils.jar">
+      <element id="module-output" name="quadkey_utils" />
+    </root>
+  </artifact>
+</component>
